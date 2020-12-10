@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to theMVPBookClub
 
-You can use the [editor on GitHub](https://github.com/theMVPBookClub/theMVPBookClub.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a placeholder site for the yet to be released community project called theMVPBookClub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is theMVPBookClub
 
-### Markdown
+theMVPBookClub is a place where Microsoft MVP's (current and previous) can come and provide colletive reviews on books that we may have read, whether technical or non technical, or fiction or non-fiction as a way to help encourage many of us to take some time away from the screen. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Founders
 
-```markdown
-Syntax highlighted code block
+| Ryan Yates (MVP, MBCS) | 
+| :------------- | 
+| ![Ryan Yates](https://pbs.twimg.com/profile_images/1223471009765957632/8JHaU6cD_400x400.jpg)| 
+|  @ryanyates1990  |  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theMVPBookClub/theMVPBookClub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Reviews are planned to be written entirely in Markdown 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Interested in taking part then please fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=PK6uII7nskS5mrcf2ClWyYljzjy4NN1JgWSZCWOiImRUMEZMMkVGNjk2M1pUWkVHQU0zQVNPSFlIUC4u)
